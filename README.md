@@ -48,6 +48,17 @@ Pour chaque projet, je mets en place une structure rigoureuse via **Jira** pour 
 * **Suivi :** Analyse du **Burndown Chart** pour respecter les deadlines critiques.
 ![Mon Suivi Jira](./jira.jpeg)
 ---
+---
 
-### 📈 GitHub Stats
-![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-bah&show_icons=true&theme=dark)
+### 📊 Dashboard d'Analyse Décisionnelle (Power BI)
+
+Afin de rendre les données exploitables par la direction de **Benkan Group**, j'ai conçu ce dashboard interactif qui permet de suivre les indicateurs clés en temps réel.
+
+#### 🎯 Objectifs clés :
+* **Suivi de la performance :** Visualisation des KPI de vente et du taux d'attrition par secteur.
+* **Aide à la décision :** Identification visuelle des segments de clients nécessitant une intervention immédiate.
+* **Impact :** Optimisation du temps d'analyse des managers de +15% grâce à l'automatisation des rapports.
+
+<p align="center">
+  <img src="./dashboard_churn.png" width="800" title="Dashboard">
+</p>
