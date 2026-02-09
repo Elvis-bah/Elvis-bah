@@ -33,12 +33,6 @@
 
 ---
 ---
-
-### 📊 My GitHub Activity & Stats
-
-![Snake animation](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-bah&layout=compact&theme=vision-friendly-dark)
-
-![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-bah&show_icons=true&theme=vision-friendly-dark)
 ---
 ### 📊 Ma Gestion de Projet (Agile/Scrum)
 
