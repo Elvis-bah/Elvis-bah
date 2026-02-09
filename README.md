@@ -32,7 +32,15 @@
 **Gestion de Projet** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
 ---
+---
 
+### 📊 My GitHub Activity & Stats
+
+![Snake animation](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-bah&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
+[![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-bah&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ### 📊 Ma Gestion de Projet (Agile/Scrum)
 
 Pour chaque projet, je mets en place une structure rigoureuse via **Jira** pour garantir la livraison de valeur :
