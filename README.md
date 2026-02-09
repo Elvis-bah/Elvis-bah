@@ -32,8 +32,6 @@
 **Gestion de Projet** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
 ---
----
----
 ### 📊 Ma Gestion de Projet (Agile/Scrum)
 
 Pour chaque projet, je mets en place une structure rigoureuse via **Jira** pour garantir la livraison de valeur :
