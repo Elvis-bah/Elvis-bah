@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hello world 🌍, I'm Elvis-bah 🚀
 
-<!--
-**Elvis-bah/Elvis-bah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Elvis-bah.png" align="right" alt="Elvis Profile" width="220" style="border-radius: 50%;" />
 
-Here are some ideas to get you started:
+**Data Scientist @ Benkan Group** *Spécialiste en analyse de données, modélisation prédictive et optimisation business.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Quick Facts
+
+- 🔭 **Actuellement :** Data Scientist au sein d'une entreprise multi-service.
+- ⚙️ **Missions :** algorithmes de prédiction et Machine Learning, Création de dashboards, analyse décisionnelle.
+- ⚡ **Méthodologie :** Adepte de l'agilité **Scrum** pour la structuration de projets Data.
+- 📫 **Me contacter :** [ebah@benkangroup.com](mailto:ebah@benkangroup.com)
+
+---
+
+### 🛠️ Languages and Tools
+
+**Programmation & Base de données** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data Visualization & BI** ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+**Cloud & DevOps** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Gestion de Projet** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
+
+---
+
+### 📊 Ma Gestion de Projet (Agile/Scrum)
+
+Pour chaque projet, je mets en place une structure rigoureuse via **Jira** pour garantir la livraison de valeur :
+* **Backlog & Sprints :** Organisation des tâches en cycles de 2 semaines.
+* **Estimation :** Utilisation de **Story Points** pour mesurer la complexité des algorithmes.
+* **Suivi :** Analyse du **Burndown Chart** pour respecter les deadlines critiques.
+
+---
+
+### 📈 GitHub Stats
+![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elvis-bah&show_icons=true&theme=dark)
