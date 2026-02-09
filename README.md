@@ -1,5 +1,5 @@
 # INTRODUCING MYSELF ,
-<p align="center">
+<p align="left">
   <img src="./INTRO.jpg" width="800" title="Dashboard">
 </p>
 
