@@ -46,7 +46,7 @@ Pour chaque projet, je mets en place une structure rigoureuse via **Jira** pour 
 * **Backlog & Sprints :** Organisation des tâches en cycles de 2 semaines.
 * **Estimation :** Utilisation de **Story Points** pour mesurer la complexité des algorithmes.
 * **Suivi :** Analyse du **Burndown Chart** pour respecter les deadlines critiques.
-
+![Mon Suivi Jira](./jira.jpeg)
 ---
 
 ### 📈 GitHub Stats
