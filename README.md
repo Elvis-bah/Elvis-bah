@@ -1,4 +1,4 @@
-# Hello world 🌍, I'm Elvis-bah 🚀
+# Hello world , I'm Elvis-bah 
 
 <img src="https://github.com/Elvis-bah.png" align="right" alt="Elvis Profile" width="220" style="border-radius: 50%;" />
 
