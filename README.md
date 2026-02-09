@@ -1,4 +1,7 @@
-# Hello world , I'm Elvis-bah 
+# INTRODUCING MYSELF ,
+<p align="center">
+  <img src="./dashboard.jpeg" width="800" title="Dashboard">
+</p>
 
 <img src="https://github.com/Elvis-bah.png" align="right" alt="Elvis Profile" width="220" style="border-radius: 50%;" />
 
