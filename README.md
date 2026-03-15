@@ -5,22 +5,22 @@
 
 <img src="https://github.com/Elvis-bah.png" align="right" alt="Elvis Profile" width="220" style="border-radius: 50%;" />
 
-**Data Scientist @ Benkan Group** *Spécialiste en analyse de données, modélisation prédictive et optimisation business.*
+**Data Scientist @ Benkan Group** *Data Analytics Specialist | Predictive Modeling & Business Optimization.*
 
 ---
 
 ### ✨ Quick Facts
 
-- 🔭 **Actuellement :** Data Scientist au sein d'une entreprise multi-service.
-- ⚙️ **Missions :** algorithmes de prédiction et Machine Learning, Création de dashboards, analyse décisionnelle.
-- ⚡ **Méthodologie :** Adepte de l'agilité **Scrum** pour la structuration de projets Data.
-- 📫 **Me contacter :** [ebah@benkangroup.com](mailto:ebah@benkangroup.com)
+- 🔭 **Currently:** Data Scientist at a multi-service company.
+- ⚙️ **Missions :** Predictive algorithms and Machine Learning, Dashboard creation, and decision analysis.
+- ⚡ **Methodology:** Skilled in **Scrum** agile framework for structuring Data projects.
+- 📫 **Contact Me :** [ebah@benkangroup.com](mailto:ebah@benkangroup.com)
 
 ---
 
 ### 🛠️ Languages and Tools
 
-**Programmation & Base de données** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Programming & Databases** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,28 +32,25 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Gestion de Projet** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
+**Project Management** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=atlassian&logoColor=white)
 
 ---
-### 📊 Ma Gestion de Projet (Agile/Scrum)
+### 📊 My Project Management (Agile/Scrum)
 
-Pour chaque projet, je mets en place une structure rigoureuse via **Jira** pour garantir la livraison de valeur :
-* **Backlog & Sprints :** Organisation des tâches en cycles de 2 semaines.
-* **Estimation :** Utilisation de **Story Points** pour mesurer la complexité des algorithmes.
-* **Suivi :** Analyse du **Burndown Chart** pour respecter les deadlines critiques.
+For each project, I establish a rigorous structure via **Jira** to ensure value delivery. :
+* **Backlog & Sprints :** Task organization in 2-week cycles.
+* **Estimation :** Use of **Story Points** to measure algorithm complexity.
+* **Tracking :** **Burndown Chart** analysis to meet critical deadlines.
 ![Mon Suivi Jira](./jira.jpeg)
 ---
 ---
 
-### 📊 Dashboard d'Analyse Décisionnelle
-
-Afin de rendre les données exploitables par la direction de **Benkan Group**, j'ai conçu ce dashboard interactif qui permet de suivre les indicateurs clés en temps réel.
-
-####  Objectifs clés :
-* **Suivi de la performance :** Visualisation des KPI de vente et du taux d'attrition par secteur.
-* **Aide à la décision :** Identification visuelle des segments de clients nécessitant une intervention immédiate.
-* **Impact :** Optimisation du temps d'analyse des managers de +15% grâce à l'automatisation des rapports.
-
+### 📊 Decision Analysis Dashboard
+To make data actionable for the **Benkan Group** management, I designed this interactive dashboard to track key performance indicators (KPIs) in real time.
+####  **Key Objectives** :
+* **Performance Tracking**: Visualization of sales KPIs and churn rate by sector.
+* **Decision Support:** Visual identification of customer segments requiring immediate intervention.
+* **Impact:** Optimization of managers' analysis time by +15% through report automation.
 <p align="center">
   <img src="./dashboard.jpeg" width="800" title="Dashboard">
 </p>
