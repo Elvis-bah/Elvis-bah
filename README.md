@@ -43,7 +43,6 @@ For each project, I establish a rigorous structure via **Jira** to ensure value 
 * **Tracking :** **Burndown Chart** analysis to meet critical deadlines.
 ![Mon Suivi Jira](./jira.jpeg)
 ---
----
 
 ### 📊 Decision Analysis Dashboard
 To make data actionable for the **Benkan Group** management, I designed this interactive dashboard to track key performance indicators (KPIs) in real time.
